@@ -64,9 +64,8 @@ Projects will be displayed as a public exhibition and will be assessed in this c
 All code/text  based  elements of the work must be version controlled using Git and the URL to your projects code must be public displayed as part of your exhibition display.
 
 There must be a README.md file in your Github repository where you attribute the individual elements of the work (i.e. an explanation of who did what within the group).
-
+	
 A link to a digital copy of all your work (code, media assets, project files, documentation) must be uploaded to Turnitin.
-
 
 ## Useful technical howtos:
 
@@ -76,7 +75,6 @@ http://makezine.com/2012/10/22/a-halloween-sound-trigger-with-raspberry-pi-and-a
 https://cgcookie.com/flow/introduction-to-blender/
 http://www.blenderguru.com/tutorials/how-to-create-a-professional-logo-animation/
 http://scribusstuff.org/
-
 
 ## Software:
 
