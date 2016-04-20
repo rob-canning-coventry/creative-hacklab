@@ -108,4 +108,5 @@ Senior Technician/Skills Instructor Facilitator - Digital Techno, FAH ac1502@cov
 ### Paul Adkins 
 Senior Technician/Skills Instructor, FAH aa5574@coventry.ac.uk
 
-### Dan Flood Assistant Lecturer in Digital Media, FAH ac2081@coventry.ac.uk
+### Dan Flood 
+Assistant Lecturer in Digital Media, FAH ac2081@coventry.ac.uk
