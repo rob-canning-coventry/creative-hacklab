@@ -1,0 +1,11 @@
+wget http://www.catb.org/esr/faqs/smart-questions.html
+
+wget http://www.catb.org/esr/faqs/hacker-howto.html
+
+qrencode http:/blabla.bla -o qr.png
+
+wget studio.kiben.net/muybridge_horse.tar
+
+wget https://download.blender.org/durian/trailer/sintel_trailer-1080p.mp4
+vlc --fullscreen sintel_trailer-1080p.mp4  --crop=480x470+500+500 --start-time 6 --stop-time 8 --loop --no-osd
+
