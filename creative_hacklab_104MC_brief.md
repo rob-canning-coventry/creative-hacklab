@@ -58,7 +58,9 @@ All elements must observe design consistency. For example logos, fonts choices, 
 
 In this assignment you must use only use free and open source software. 
 The requirements for this assignment are easily achievable using the software tools mentioned above. In forcing you our of your tool-chain comfort zone you will learn: the importance of transferable skills, the context of open-source tools in industry, freelance work and society.
-	Submission:
+
+## Submission:
+
 Projects will be displayed as a public exhibition and will be assessed in this context.
 
 All code/text  based  elements of the work must be version controlled using Git and the URL to your projects code must be public displayed as part of your exhibition display.
